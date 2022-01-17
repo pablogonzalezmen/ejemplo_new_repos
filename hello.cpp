@@ -8,3 +8,4 @@ int main(){
     cout<<"Este es mi primer programa_2\n";
     return 0;
 }
+
